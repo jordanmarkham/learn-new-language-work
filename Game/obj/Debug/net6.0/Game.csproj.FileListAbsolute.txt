@@ -1,0 +1,15 @@
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/bin/Debug/net6.0/Game
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/bin/Debug/net6.0/Game.deps.json
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/bin/Debug/net6.0/Game.runtimeconfig.json
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/bin/Debug/net6.0/Game.dll
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/bin/Debug/net6.0/Game.pdb
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/obj/Debug/net6.0/Game.csproj.AssemblyReference.cache
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/obj/Debug/net6.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/obj/Debug/net6.0/Game.AssemblyInfoInputs.cache
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/obj/Debug/net6.0/Game.AssemblyInfo.cs
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/obj/Debug/net6.0/Game.csproj.CoreCompileInputs.cache
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/obj/Debug/net6.0/Game.dll
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/obj/Debug/net6.0/refint/Game.dll
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/obj/Debug/net6.0/Game.pdb
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/obj/Debug/net6.0/Game.genruntimeconfig.cache
+/Users/jordanmarkham/Desktop/Projects/WordGame/Game/obj/Debug/net6.0/ref/Game.dll
